@@ -1,0 +1,43 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #ffd3b6;
+}
+
+.nome{
+    text-align: center;
+    font-size: xx-large;
+    margin-left: 3%;
+}
+
+.headernome{
+    margin: 10% 10% 15% 10%;
+}
+
+section{
+    margin: 0% 15% 5% 15%;
+}
+
+.listmenu{
+    list-style: none;
+    display: flexbox;
+    padding: 2% 5% 2% 5%;
+    border: dotted;
+    border-color: #698474;
+    color: black;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+
+.linkmenu{
+    text-decoration: none;
+}
+
+.listmenu:hover{
+    background-color: #ffaaa5;
+}
+
+#formacao{
+    
+}
